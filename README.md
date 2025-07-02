@@ -1,6 +1,13 @@
-# Vanilla Enhancements
+# ~Vanilla~ Cheat Enhancements
 
-An among us mod adding lots of quality-of-life features to the game.
+## What has changed in the CHEAT version?
+Now the player can see the roles of all players even if he is alive (In the normal version you need to become a ghost)
+
+
+
+
+
+## You already know what the default version of the mod does, right? 
 
 - 🌙 Dark mode
 - 🔇 Player muting
@@ -42,17 +49,6 @@ It will be generated after the first launch and the changes you make need a rest
 | [Submerged](https://github.com/SubmergedAmongUs/Submerged) | ✅ |  |
 | [LevelImposter](https://github.com/DigiWorm0/LevelImposter) | ✅ |  |
 
-## Downloading
-### Releases
-| Mod Version | Among us version | Download |
-|:-:|:-:|:-:|
-| **1.1.3** | **2024.10.29** & **2024.11.26** | [Download](https://github.com/xChipseq/VanillaEnhancements/releases/tag/1.1.3) |
-| **1.1.2** | **2024.10.29** & **2024.11.26** | [Download](https://github.com/xChipseq/VanillaEnhancements/releases/tag/1.1.2) |
-| **1.1.1** | **2024.10.29** & **2024.11.26** | [Download](https://github.com/xChipseq/VanillaEnhancements/releases/tag/1.1.1) |
-| **1.1.0** | **2024.10.29** | [Download](https://github.com/xChipseq/VanillaEnhancements/releases/tag/1.1.0) |
-| **1.0.2** | **2024.10.29** | [Download](https://github.com/xChipseq/VanillaEnhancements/releases/tag/1.0.2) |
-| **1.0.1** | **2024.10.29** | [Download](https://github.com/xChipseq/VanillaEnhancements/releases/tag/1.0.1) |
-| **1.0.0** | **2024.10.29** | [Download](https://github.com/xChipseq/VanillaEnhancements/releases/tag/1.0.0) |
 
 Put `VanillaEnhancements.dll` in the **`BepInEx\plugins`** folder with other mods or download the zip package.
 > [!Warning]
@@ -60,3 +56,8 @@ Put `VanillaEnhancements.dll` in the **`BepInEx\plugins`** folder with other mod
 
 > *This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.*
 > [License](./LICENSE)
+
+> **Disclaimer:** This is a fan-made remake. All original rights and credits belong to xChipseq, the creator of the original VanillaEnhancements mod.
+
+Original Mod: [xChipseq/VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements)
+Original Creator: [xChipseq (Chipseq)](https://github.com/xChipseq)
