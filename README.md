@@ -67,12 +67,3 @@ By downloading or launching this software, you confirm that:
    * You agree not to violate Innersloth’s Terms of Service or interfere with public servers.
 
    * You accept that no developer involved takes any liability for misuse, data loss, bans, or any negative consequences.
-
-
-Dowlnloading this mod, you agree to:
-
-   * Use exclusively in private lobbies with consenting players.
-   
-   * Never exploit features in public matches or to harass others.
-   
-   * Respect Innersloth's Terms of Service and the integrity of the game.
